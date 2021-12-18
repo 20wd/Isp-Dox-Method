@@ -1,0 +1,35 @@
+HOW TO DOX ANYONE (METHOD 1 - ISP / Phone Number DOX) BY JARRITO ON TIKTOK
+
+1. Obtain the victims IP address, this can be through a method as simple as IP grabbing, or you can search databases if you can't manage to IP grab them. Be careful with databases, some are outdated.
+
+2. Go to whatismyipaddress.com or similar, and enter the victim's IP address.
+
+3. Look for the victim's ISP or Organization.
+
+4. Find the support number to their ISP, and call in. You can either spoof as an inside number to their company, or just use any throwaway phone number. Both methods will be explained below.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+INSIDE NUMBER METHOD
+
+1. Spoof your phone number to an internal one in the ISP. These can be found by finding all of their support numbers and choosing one to spoof yourself as. Any spoofer can be used, it won't be easy for them to track you with the amount of calls they receive.
+
+2. Call a DIFFERENT support number than the one you are spoofing.
+
+3. When you speak with a representative say the following (adjust wording to your liking), "Hello, this is Mr. Datalinklayer calling from the chat support department. I was recently helping a customer when I was disconnected with the chat, and I wanted to contact them to make sure they got the needed support. Unfortunately, I only have their IP to go off of, is there any way you could help me locate this customer?"
+
+4. After this if you said it in nice tone, without stuttering or being a squeaker, they will gladly help you. If they don't thank them for their time, hang up and call again in 5 minutes.
+
+5. If they do stay, give them the IP and ask for the associated names, phone numbers, and addresses. If you are convincing enough, you can even find the last 4 digits of their SSN.
+
+6. Thank the employee, don't be rude as this could very well get them fired, then hang up. You now have the info you need.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+THROWAWAY NUMBER METHOD
+
+1. Call the ISP support line, don't use your personal number, just use a random throwaway.
+
+2. Tell them support that you are a private investigator on a cyber crime case (you MUST sound very convincing) and that you need the info to the IP address that you have in order to create a subpoena (pronounced soup-eena)
+
+3. If it doesn't work, hang up, wait 5 minutes, then try again. Eventually you will find a na�ve employee willing to help.
